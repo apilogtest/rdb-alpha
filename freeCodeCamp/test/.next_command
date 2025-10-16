@@ -102,3 +102,4 @@ cd freeCodeCamp
 git status
 ls --color=auto
 cd test
+pwd
