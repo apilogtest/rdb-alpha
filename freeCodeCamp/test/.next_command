@@ -85,3 +85,5 @@ ls --color=auto
 git status
 ls --color=auto
 cd freeCodeCamp
+git status
+pwd
