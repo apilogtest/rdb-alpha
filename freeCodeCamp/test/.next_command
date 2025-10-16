@@ -107,3 +107,5 @@ ls --color=auto
 git status
 cd /project
 cd ../
+cd ../
+git add .
