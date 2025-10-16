@@ -109,3 +109,12 @@ cd /project
 cd ../
 cd ../
 git add .
+git commit -m "Progress on FCC boilerplate"
+git push
+git remote add origin https://github.com/apilogtest/rdb-alpha.git
+git push
+git push -u origin master
+git config user.name
+git config user.email
+git config --global user.email "apli.logtest@proton.me"
+git add .
