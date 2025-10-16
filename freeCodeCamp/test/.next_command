@@ -87,3 +87,17 @@ ls --color=auto
 cd freeCodeCamp
 git status
 pwd
+cd ..
+cd ..
+cd ..
+git status
+ls --color=auto
+cd workspace
+ls --color=auto
+git status
+cd project
+git status
+ls --color=auto
+cd freeCodeCamp
+git status
+ls --color=auto
